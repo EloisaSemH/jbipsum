@@ -1,4 +1,4 @@
-jbipsum
+Imagine Dragons Lorem Ipsum
 =======
 
-A react app that creates place holder text from some of Justin Biebers douchiest quotes and lyrics.
+A react app that creates place holder text from some of Imagine Dragons quotes and lyrics.
